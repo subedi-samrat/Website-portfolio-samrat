@@ -38,7 +38,7 @@ No specific prerequisites are required beyond a modern web browser.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SAMrat-543/Website-portfolio-demo.git
+    git clone https://github.com/subedi-samrat/Website-portfolio-demo.git
     ```
 2. Open the project directory:
     ```bash
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [SAmrat-543](https://github.com/SAmrat-543)
+- GitHub: [SAmrat-543](https://github.com/subedi-samrat)
 - Email: samrat@subedi-samrat.com.np
 
 ---
